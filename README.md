@@ -14,7 +14,7 @@ A financial data warehouse platform built with **FastAPI** and **MongoDB**. Coll
 ### Install & Run (Docker)
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/codrinrata/DWPROEJCT.git
 cd DW
 cp .env.example .env          # optional: GROQ_API_KEY, vendor keys
 docker compose up --build
