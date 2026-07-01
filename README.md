@@ -51,8 +51,6 @@ Spark will use a Python fallback; all other features work normally.
 ```
 DW/
 ├── README.md
-├── REPORT.md                       ← Short project report (course deliverable)
-├── IIAGEN_TEMPLATE.md              ← Generative AI usage statement template
 ├── requirements.txt
 ├── .env.example
 ├── docker-compose.yml
