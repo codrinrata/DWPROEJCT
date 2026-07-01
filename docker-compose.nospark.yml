@@ -1,0 +1,5 @@
+# Override API image when Dockerfile apt-get / Java install fails
+services:
+  api:
+    build:
+      dockerfile: Dockerfile.nospark

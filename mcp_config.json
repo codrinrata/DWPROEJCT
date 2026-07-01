@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "acme-market-intelligence": {
+      "command": "python",
+      "args": ["-m", "app.mcp_server"],
+      "cwd": "c:\\Users\\crata\\Documents\\DW",
+      "env": {
+        "API_BASE_URL": "http://localhost:8000"
+      }
+    }
+  }
+}
